@@ -1,0 +1,22 @@
+
+         .bg-mycolor
+         {
+           background-color : skyblue;
+         }
+         .signup-form{
+             width: 50%;
+             margin:auto;
+         }
+         .add-contact-btn
+         {
+           padding: 1px;
+         }
+
+         @media only screen and (min-width:1200px)
+         {
+           .add-contact-form{
+             width: 50%;
+           }
+         }
+
+          
